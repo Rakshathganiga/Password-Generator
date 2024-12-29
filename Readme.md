@@ -30,6 +30,6 @@ A simple and elegant random password generator web application that generates se
 
 ## Author
 
-Created by Rakshath. Connect with me on [LinkedIn](https://www.linkedin.com/in/
-rakshath-ganiga-3a7489243).
+Created by Rakshath. Connect with me on [LinkedIn](https://www.linkedin.com/in/rakshath-ganiga-3a7489243).
+
 "# Password-Generator" 
